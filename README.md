@@ -6,8 +6,6 @@ This application does not launch in a browser and instead uses a console line in
 
 Dependencies required:
 
-Node.js
-Inquirer
-Jest for testing
+Node.js, Inquirer, Jest for testing
 
 
